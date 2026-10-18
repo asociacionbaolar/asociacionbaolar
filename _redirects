@@ -1,0 +1,11 @@
+# Redirecciones de las direcciones antiguas de Wix (Cloudflare Pages y Netlify leen este archivo)
+/inicio                          /                          301
+/s-projects-side-by-side         /educacion                 301
+/copia-de-educaci%C3%B3n         /desarrollo-comunitario    301
+/copia-de-educación              /desarrollo-comunitario    301
+/copia-de-desarrollo-comunitario /igualdad-discapacidad     301
+/copia-de-colabora               /colabora                  301
+/blog                            /                          301
+/blog/*                          /                          301
+/book-online                     /                          301
+/notifications                   /                          301
